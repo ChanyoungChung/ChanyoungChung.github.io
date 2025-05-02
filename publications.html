@@ -9,17 +9,17 @@ body_attr: >-
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
 <div class="row">
+    {% for year in pubs_by_year %}
+    <!-- <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2> -->
+    {% for item in year.items %}
     <div class="col-12 col-lg-12">
-        {% for year in pubs_by_year %}
-        <!-- <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2> -->
-        {% for item in year.items %}
         <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
             {% assign num_papers = 1 %}
             {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
         </div>
-        {% endfor %}
-        {% endfor %}
     </div>
+    {% endfor %}
+    {% endfor %}
 
     <!--
     <div class="col-2 d-none d-lg-block">
