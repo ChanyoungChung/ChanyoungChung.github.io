@@ -1,6 +1,6 @@
 ---
-title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
-date:           2024-05-12 00:01:00 +0800
+title:          "Knowledge Graph Embedding via Metagraph Learning"
+date:           2021-07-12 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Machine Learning (ICML)"
 # pub_pre:        "Submitted to "
