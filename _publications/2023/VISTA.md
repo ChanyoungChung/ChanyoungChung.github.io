@@ -1,7 +1,7 @@
 ---
 title:          "VISTA: Visual-Textual Knowledge Graph Representation Learning"
 date:           2023-12-01 00:00:00 +0900
-selected:       true
+selected:       false
 pub:            "Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
