@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "Chanyoung Chung"
 
 positions:
-# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-- name: Integrated M.S. & Ph.D. Student @ School of Computing, KAIST
+- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  name: Integrated M.S. & Ph.D. Student @ School of Computing, KAIST
 # - name: Position 2 without logo
 
 
