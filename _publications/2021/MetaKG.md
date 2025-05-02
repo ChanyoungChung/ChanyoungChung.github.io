@@ -1,6 +1,6 @@
 ---
 title:          "Knowledge Graph Embedding via Metagraph Learning"
-date:           2021-07
+date:           2021-07-01 00:00:00 +0900
 selected:       true
 pub:            "International Conference on Machine Learning (ICML)"
 # pub_pre:        "Submitted to "
