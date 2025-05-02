@@ -1,7 +1,7 @@
 ---
 title:          "InGram: Inductive Knowledge Graph Embedding via Relation Graphs"
 date:           2023-07-01 00:00:00 +0900
-selected:       false
+selected:       true
 pub:            "International Conference on Machine Learning (ICML)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

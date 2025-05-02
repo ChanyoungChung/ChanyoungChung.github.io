@@ -1,7 +1,7 @@
 ---
 title:          "Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers"
 date:           2023-08-01 00:00:00 +0900
-selected:       false
+selected:       true
 pub:            "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
