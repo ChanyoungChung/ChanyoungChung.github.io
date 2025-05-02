@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "Chanyoung Chung"
 
 positions:
-# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-- name: Integrated M.S. & Ph.D. Student @ School of Computing, KAIST
+- logo: /assets/images/badges/KAIST.png  # Logo is optional
+  name: Integrated M.S. & Ph.D. Student @ School of Computing, KAIST
 # - name: Position 2 without logo
 
 
@@ -34,13 +34,13 @@ portrait_caption: >-
 
 education:
 - name: Korea Advanced Institute of Science and Technology (KAIST)
-#   logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/KAIST.png
   position: >- 
     School of Computing <br/>
     Integrated M.S. & Ph.D. Student
   date: Mar. 2021 - present
 - name: Korea Advanced Institute of Science and Technology (KAIST)
-#   logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/KAIST.png
   position: B.S. in School of Computing & Department of Mathematical Sciences
   date: Mar. 2017 - Feb. 2021
 
