@@ -18,5 +18,6 @@ authors:
   - Joyce Jiyoung Whang
 links:
   # Paper: https://ojs.aaai.org/index.php/AAAI/article/view/25538
-  # Code: https://github.com/bdi-lab/MICRec
+  Code: https://github.com/bdi-lab/MICRec
 ---
+
