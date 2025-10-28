@@ -17,7 +17,8 @@ authors:
   - Sunbin Park
   - Joyce Jiyoung Whang
 links:
-  # Paper: https://ojs.aaai.org/index.php/AAAI/article/view/25538
+  Paper: https://arxiv.org/abs/2510.21812
   Code: https://github.com/bdi-lab/MICRec
 ---
+
 
